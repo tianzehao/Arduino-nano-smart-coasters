@@ -1,0 +1,17 @@
+引脚定义
+HX711
+uint8_t dataPin = 6;
+uint8_t clockPin = 7;
+
+无源蜂鸣器
+const int buzzerPin = 9;
+
+LED
+#define LED_PIN    11
+
+按键
+#define PIN_INPUT 3
+
+0.96'OLED屏
+SCL A5
+SDA A4
